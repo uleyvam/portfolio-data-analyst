@@ -1,10 +1,10 @@
-# Victor Uriel Leyva – Data Analyst Portfolio 💼
+# 💼 Victor Uriel Leyva – Data Analyst Portfolio 
 
 Welcome! I'm an aspiring data analyst with a background in Economics and a strong focus on turning raw data into actionable insights. Here you will find a selection of projects that showcase my skills in data analysis, visualization, and statistical modeling.
 
 ---
 
-## Projects 📊
+## 📊 Projects 
 
 ### 1. Instacart Consumer Behavior Analysis
 **Objective:** Analyze purchasing patterns and customer preferences using real-world order data.  
