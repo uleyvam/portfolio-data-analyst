@@ -27,4 +27,11 @@ Welcome! I'm a data analyst with a background in Economics and a strong focus on
 
 ---
 
+### 4. A/B Testing – Business Decision Making
+**Objective:** Prioritize business hypotheses using ICE and RICE frameworks, and analyze the results of an A/B test to determine the effectiveness of a new website version.  
+**Tools:** Python, pandas, matplotlib, scipy.stats  
+📎 [View Project](./AB%20Test.pdf)
+
+---
+
 Feel free to explore these projects and connect with me on [LinkedIn](https://www.linkedin.com/in/victorurielleyva).
